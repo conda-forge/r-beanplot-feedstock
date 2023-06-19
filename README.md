@@ -1,11 +1,11 @@
-About r-beanplot
-================
+About r-beanplot-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-beanplot-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=beanplot
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-beanplot-feedstock/blob/main/LICENSE.txt)
 
 Summary: Plots univariate comparison graphs, an alternative to boxplot/stripchart/violin plot.
 
